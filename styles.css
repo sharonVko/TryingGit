@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: cadetblue;
+  max-width: 1024px;
+  margin: auto 0;
+}
+main {
+  overflow: hidden;
+  display: flex;
+  padding: 1.5em;
+}
+p {
+  color: rgb(43, 129, 100);
+}
+
+button {
+  text-align: center;
+  background-color: chocolate;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  font-size: 0.7em;
+  clear: both;
+}
